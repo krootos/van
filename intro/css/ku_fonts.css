@@ -1,0 +1,144 @@
+/*!
+* KUSE WEBSITE
+* Copyright 2021 CUSCODE Solutions (https://cuscode.in.th)
+*/
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_v3.2-webfont.woff") format("woff"),
+        url("../fonts/db_ozone_x_v3.2-webfont.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_v3.2-webfont.woff") format("woff"),
+        url("../fonts/db_ozone_x_v3.2-webfont.ttf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_v3.2-webfont.woff") format("woff"),
+        url("../fonts/db_ozone_x_v3.2-webfont.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_v3.2-webfont.woff") format("woff"),
+    url("../fonts/db_ozone_x_v3.2-webfont.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_med_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_med_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_med_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_med_v3.2-webfont.woff") format("woff"),
+        url("../fonts/db_ozone_x_med_v3.2-webfont.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_bd_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_bd_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.woff") format("woff"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_bd_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_bd_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.woff") format("woff"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_bd_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_bd_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.woff") format("woff"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.ttf") format("truetype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DB Ozone X";
+    src: url("../fonts/db_ozone_x_bd_v3.2-webfont.eot");
+    src: url("../fonts/db_ozone_x_bd_v3.2-webfont.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.woff2") format("woff2"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.woff") format("woff"),
+        url("../fonts/db_ozone_x_bd_v3.2-webfont.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TH Sarabun New";
+    src: url("../fonts/THSarabunNew Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TH Sarabun New";
+    src: url("../fonts/THSarabunNew Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TH Sarabun New";
+    src: url("../fonts/THSarabunNew.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TH Sarabun New";
+    src: url("../fonts/THSarabunNew Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
